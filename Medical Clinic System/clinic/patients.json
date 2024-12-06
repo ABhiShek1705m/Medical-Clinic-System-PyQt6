@@ -1,0 +1,29 @@
+{
+    "1234567": {
+        "__type__": "Patient",
+        "phn": 1234567,
+        "name": "Abhishek Majumdar",
+        "birth_date": "2005-01-17",
+        "phone": "9823999902",
+        "email": "abc@gmail.com",
+        "address": "C1 Block"
+    },
+    "1701200512": {
+        "__type__": "Patient",
+        "phn": 1701200512,
+        "name": "Aiman Singh",
+        "birth_date": "2005-01-30",
+        "phone": "9716062218",
+        "email": "aimansingh201@gmail.com",
+        "address": "C2 Block "
+    },
+    "33779020": {
+        "__type__": "Patient",
+        "phn": 33779020,
+        "name": "Krishna Gupta ",
+        "birth_date": "2005-09-28",
+        "phone": "2367782901",
+        "email": "kgupta@gmail.com",
+        "address": "UVic"
+    }
+}
